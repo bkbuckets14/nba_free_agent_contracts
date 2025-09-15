@@ -14,6 +14,9 @@ The user has two options for doing so:
 *Note: Running the main.ipynb file will take care of ETL along with the other steps for the full completion of this problem.
 
 Data URLs:
+
 Player Data: https://www.basketball-reference.com/teams/BOS/2021.html *Note: Taking data from 'Roster' Table. One webpage/table for each team and year.
+
 Stats Data: https://www.basketball-reference.com/leagues/NBA_2021_per_game.html *Note: Taking data from 'Player Per Game' Table. One webpage/table for each year.
+
 Free Agent Contract Data: https://www.spotrac.com/nba/free-agents/2021/ *Note: Taking data from main table. One webpage/table for each year.
