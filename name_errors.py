@@ -1,0 +1,28 @@
+name_errors_dict = {'Nenê': 'Nenê Hilário',
+               'Mo Bamba': 'Mohamed Bamba',
+               'Didi Louzada': 'Marcos Louzada Silva',
+               'Kristaps Porzingis': 'Kristaps Porziņģis',
+               'Nikola Vucevic': 'Nikola Vučević',
+               'Bojan Bogdanovic': 'Bojan Bogdanović',
+               'Jonas Valanciunas': 'Jonas Valančiūnas',
+               'Tomas Satoransky': 'Tomáš Satoranský',
+               'Nene Hilario': 'Nenê Hilário',
+               'Ishmael Smith': 'Ish Smith',
+               'Boban Marjanovic': 'Boban Marjanović',
+               'Jose Barea': 'J.J. Barea',
+               'Timothe Luwawu-Cabarrot': 'Timothé Luwawu-Cabarrot',
+               'P.J. Dozier': 'PJ Dozier',
+               'Davis Bertans': 'Dāvis Bertāns',
+               'Bogdan Bogdanovic': 'Bogdan Bogdanović',
+               'Dario Saric': 'Dario Šarić',
+               'Juan Hernangomez': 'Juan Hernangómez',
+               'Goran Dragic': 'Goran Dragić',
+               'Joshia Gray': 'Josh Gray',
+               'Willy Hernangomez': 'Willy Hernangómez',
+               'Patrick Mills': 'Patty Mills',
+               'Louis Williams': 'Lou Williams',
+               'Sviatoslav Mykhailiuk': 'Svi Mykhailiuk',
+               'DJ Wilson': 'D.J. Wilson'}
+
+def helloWorld():
+    print('hello world')
